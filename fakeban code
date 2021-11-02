@@ -1,0 +1,5 @@
+{delete}
+
+{!announce {channel} <:dynoSuccess:314691591484866560> {choose1:a non-existant person}***$1.user.name has been banned*** │No reason given.
+
+{choice}}
